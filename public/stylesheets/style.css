@@ -1,0 +1,68 @@
+body {
+    background-color: lightgrey;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+}
+.media {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.bio {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.images {
+    display: flex;
+    justify-content: center;
+    height: 50vh;
+}
+
+.buttons {
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.mainContent {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.artistImages {
+    
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    
+
+}
+
+.kanyeW {
+    height: 25vh;
+}
+
+.travis {
+    height: 25vh;
+}
+
+.shake {
+    height: 25vh;
+}
+
+.don {
+    height: 25vh;
+}
+
+.chainz {
+    height: 25vh;
+}
